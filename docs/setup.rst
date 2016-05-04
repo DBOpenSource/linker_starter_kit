@@ -40,7 +40,7 @@ Check that the correct and update packages are on the system.
     git clone https://github.com/jackmitch/libsoc.git
     cd libsoc
     ./autogen.sh
-    ./configure --enable-board=dragonboard410c --enable-python3 |& tee py3_conf.log
+    ./configure --enable-board=dragonboard410c --enable-python=3 |& tee py3_conf.log
     make V=1 |& tee make.log
     sudo make install
     sudo ldconfig -v -N
