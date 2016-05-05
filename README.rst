@@ -14,13 +14,16 @@ Created by `Barry Byford`_ with hopefully other contributors.
 Documentation
 =============
 
-The documentation is available in https://github.com/DBOpenSource/linker_starter_kit/ and is also available at
-http://pythonhosted.org/libsoc_zero/
+This documentation is available http://pythonhosted.org/libsoc_zero/
+
+If there are issues with the documentation then get involved and help make it better at
+https://github.com/DBOpenSource/linker_starter_kit/
+
 
 Development
 ===========
 
-This project is being developed on `GitHub`_. Join in:
+This project is being developed on `GitHub`_ so join in:
 
 * Provide suggestions, report bugs and ask questions as `issues`_
 * Provide examples we can use
