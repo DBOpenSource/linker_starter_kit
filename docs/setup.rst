@@ -38,7 +38,7 @@ Check that the correct and update packages are on the system.
     sudo apt-get install python-support
     sudo apt-get install python3-tk
     wget https://github.com/jackmitch/libsoc/archive/0.8.1.tar.gz
-    gtar -ztvf 0.8.1.tar.gz
+    tar -zxvf 0.8.1.tar.gz
     cd libsoc-0.8.1
     ./autogen.sh
     ./configure --enable-board=dragonboard410c --enable-python=3 |& tee py3_conf.log
