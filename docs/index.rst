@@ -9,3 +9,12 @@ Table of Contents
    overview
    setup
    experiments
+
+
+API
+===
+
+.. toctree::
+   :maxdepth: 2
+
+   GPIO
