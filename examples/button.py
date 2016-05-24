@@ -1,7 +1,7 @@
 from libsoc_zero.GPIO import Button
 from time import sleep
 
-btn = Button('GPIO-E')
+btn = Button('GPIO-G')
 
 while True:
     sleep(0.25)

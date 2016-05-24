@@ -2,7 +2,7 @@ from libsoc_zero.GPIO import Button
 from libsoc_zero.GPIO import LED
 from time import sleep
 
-btn = Button('GPIO-C')
+btn = Button('GPIO-G')
 led = LED('GPIO-E')
 
 
